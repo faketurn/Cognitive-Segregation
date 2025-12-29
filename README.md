@@ -20,3 +20,8 @@ https://doi.org/10.5281/zenodo.17993828
 All drafts, notes, and the Japanese original manuscript are available here:
 
 👉 https://github.com/faketurn/cognitive-types-hypothesis
+
+### 📖 How to Cite (APA 7th)
+If you would like to cite this work, please use the DOI from Zenodo.
+
+Nakanishi, S. (2025). *Two-Type Theory of Human Cognition*. Zenodo. https://doi.org/10.5281/zenodo.17993829
